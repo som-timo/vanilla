@@ -1,0 +1,11 @@
+.input-area{
+    background: #c1ffff;
+}
+
+.imcomplete-area{
+    background: #c6ffe2;
+}
+
+.complete-area{
+    background: #ffffe0;
+}
